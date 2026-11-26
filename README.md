@@ -4,7 +4,7 @@ For our Data Science course, we looked at what happens to cats leaving the Austi
 
 ## What we did
 
-We started with the Austin Animal Center Outcomes dataset and filtered it to cats. After cleaning, we had 69,386 records.
+We started with the Austin Animal Center Outcomes dataset and filtered it to cats. After cleaning, we had 69,386 records. The data comes from the [Austin Animal Center Outcomes dataset](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes-10-01-2013-to-05-05-/9t4d-g238/about_data).
 
 We explored outcomes by age, sex upon outcome and breed, then trained two models:
 
